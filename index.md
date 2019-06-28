@@ -24,3 +24,18 @@
     },1000);
 </script>
 
+
+
+
+
+<form action="?" method="post">
+	<!-- other form fields -->
+
+	<script src="https://verifypow.com/lib/captcha.min.js" async></script>
+	<div class="CRLT-captcha" data-hashes="1024" data-key="SITE_KEY">
+		<em>Loading Captcha...<br>
+		If it doesn't load, please disable Adblock!</em>
+	</div>
+
+	<input type="submit" value="Submit"/>
+</form>
